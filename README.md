@@ -1,4 +1,4 @@
-GROUP-10-REGRESSION-ML-MODEL  "Traffic Volume Prediction using Machine Learning"
+GROUP-15-REGRESSION-ML-MODEL  "Traffic Volume Prediction using Machine Learning"
 We are trying to create a ML model that can detect Traffic at cross road 6
 
 GOAL
